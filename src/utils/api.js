@@ -109,6 +109,6 @@ class Api {
     }
 }
 const api = new Api({
-  baseUrl: 'https://bkmestoproject.nomoredomains.xyz',
+  baseUrl: 'https://mestobackend.herokuapp.com',
 });
 export default api;
