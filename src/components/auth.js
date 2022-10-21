@@ -49,6 +49,6 @@ class Auth {
     
 }
 const auth = new Auth({
-  baseUrl: 'https://bkmestoproject.nomoredomains.xyz',
+  baseUrl: 'https://mestobackend.herokuapp.com',
 });
 export default auth;
