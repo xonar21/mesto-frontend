@@ -1,0 +1,16 @@
+.login__text {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 17px;
+    text-align: center;
+    display: block;
+    color: #FFFFFF;
+    text-decoration: none;
+    margin-top: 15px;
+    transition: opacity 0.2s ease-in-out;
+}
+
+.login__text:hover {
+    opacity: 0.85;
+}

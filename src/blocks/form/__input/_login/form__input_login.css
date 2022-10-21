@@ -1,0 +1,11 @@
+.form__input_login {
+    background-color: black;
+    border-bottom: 2px solid #CCCCCC;
+    color: #ffffff;
+}
+
+@media screen and (max-width: 767px) {
+    .form__input_login:nth-last-child(2) {
+        margin-top: 18px;
+    }
+}

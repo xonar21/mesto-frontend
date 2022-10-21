@@ -1,0 +1,8 @@
+.form__input-error_active {
+    color: #000000;
+    border: 1px solid #000000;
+    background-color: rgba(0,0,0,0);
+    opacity: 0.2;
+    box-sizing: content-box;
+    pointer-events: none;
+}

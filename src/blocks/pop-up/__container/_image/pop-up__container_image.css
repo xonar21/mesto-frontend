@@ -1,0 +1,7 @@
+.pop-up__container_image {
+    display: flex;
+    flex-direction: column;
+    width: max-content;
+    max-width: none;
+    background-color: rgba(0, 0, 0, 0);
+}

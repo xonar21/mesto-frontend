@@ -1,0 +1,18 @@
+.login__switch {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 22px;
+    margin: 0;
+    padding: 0;
+    height: min-content;
+    transition: opacity 0.2s ease-in-out;
+    margin-top: 7px;
+    color: #FFFFFF;
+    text-decoration: none;
+    margin-left: 24px;
+}
+
+.login__switch:hover {
+    opacity: 0.6;
+}
