@@ -1,4 +1,4 @@
-# **Дипломный проект Movies Explorer - Frontend**
+# **Проект Mesto - Frontend**
 
 ### О чём этот проект:
 
